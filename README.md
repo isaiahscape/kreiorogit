@@ -1,5 +1,5 @@
 
-## Kairo: Just another random developer with the bare minimum skills and based on your mom. Kanged from @ping2109's 
+## Kairo: Just another random developer with the little skills and based on your mom. Kanged from @ping2109's 
 - 📫 How to reach me: nothing.
 
 
