@@ -12,8 +12,8 @@
 </div>
 
 ## Want to communicate?
-[![Telegram badge](https://img.shields.io/badge/ping2109-30302f?style=flat&logo=telegram)](https://t.me/isaiahscape)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ping2109)<img align="left"/> <br>
+[![Telegram badge](https://img.shields.io/badge/Isaiah-30302f?style=flat&logo=telegram)](https://t.me/isaiahscape)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kreiorogit)<img align="left"/> <br>
 
 <!---
 kreiorogit/kreiorogit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
