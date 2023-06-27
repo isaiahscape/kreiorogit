@@ -1,5 +1,5 @@
 
-## Kairo: Just another random developer with little skills and based on your mom.
+## Isaiah: Just a developer with some skills and based on your mom.
 - 📫 How to reach me: nothing.
 
 
